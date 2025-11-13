@@ -1,4 +1,4 @@
-# P4_16 Specification — 非公式日本語訳
+# P4_16 Language Specification — 非公式日本語訳
 
 !!! warning
     このサイトはコミュニティ**p4‑jp‑community**による**非公式**の公開物です。P4 Language Consortiumが公開する[p4-specリポジトリ](https://github.com/p4lang/p4-spec/tree/main/p4-16/spec)に含まれるMadoko形式のドキュメントを元にしており、このドキュメントを章単位に分割し、Markdownへ変換し、MkDocsでWeb公開するための体裁調整を行っています。未訳の部分や誤訳、リンクの失効等が含まれる可能性があるため、正確な情報は**公式仕様**を参照してください。
